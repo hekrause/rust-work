@@ -1,0 +1,6 @@
+[package]
+name = "unsafe_declaration"
+version = "0.1.0"
+authors = ["HenningKr <henning.krause@web.de>"]
+
+[dependencies]
