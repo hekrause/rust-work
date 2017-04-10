@@ -1,6 +1,0 @@
-[package]
-name = "enums"
-version = "0.1.0"
-authors = ["HenningKr <henning.krause@web.de>"]
-
-[dependencies]
