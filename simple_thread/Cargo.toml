@@ -1,8 +1,0 @@
-[package]
-name = "simple_thread"
-version = "0.1.0"
-authors = ["HenningKr <henning.krause@web.de>"]
-
-[dependencies]
-time = "*"
-runas = "0.1.1"

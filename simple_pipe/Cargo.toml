@@ -1,0 +1,7 @@
+[package]
+name = "simple_pipe"
+version = "0.1.0"
+authors = ["henning"]
+
+[dependencies]
+nix = "0.8.1"
